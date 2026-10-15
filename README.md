@@ -3,7 +3,7 @@
 <!-- Banner de Capa de Tecnologia -->
 <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop" alt="Banner Tecnologia" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;">
 
-# 👋 Olá! Eu sou o Rocha Correa
+# 👋 Olá! Eu sou Renata rochaecorrea520a
 
 ### 🚀 Desenvolvedor em Construção & Apaixonado por Tecnologia
 
